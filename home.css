@@ -38,6 +38,7 @@
 *::after {
   box-sizing: inherit;
 }
+/*love*/
 
 html {
   scroll-padding-top: calc(72px + env(safe-area-inset-top, 0px));
